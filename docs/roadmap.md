@@ -5,7 +5,7 @@ The tutorial is here: [How to use github and git](./tutorial.md)
 
 ## Overview
 
-- [ ] We both pushed to GitHub!
+- [x] We both pushed to GitHub!
 - [ ] Obtain hardware
 - [ ] Flash basic code to microcontroller
 - [ ] One way communication for primary mission with sensors
@@ -20,4 +20,3 @@ Let's make sure we can both collaborate to write code here, first of all follow 
 ## Language and how to work with it
 
 ## Communication
-
