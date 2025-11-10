@@ -6,25 +6,25 @@ The tutorial is here: [How to use github and git](./tutorial.md)
 ## Overview
 
 - [x] We both pushed to GitHub!
+- [x] Pick initial hardware and setups
 - [ ] Obtain hardware
 - [ ] Flash basic code to microcontroller
-- [ ] One way communication for primary mission with sensors
+- [ ] Make radio work
+- [ ] Read sensors and transmit data over radio
 - [ ] Solenoid working for release
 
 ## Getting started
+Now that we've started with coding we actually need parts. I'll give the other collaborators an update when we have the partsslo we can start flashing code to the arduino. This will go to the communications section. 
 
-Let's make sure we can both collaborate to write code here, first of all follow the tutorial and push a change to github. Further instructions will await... :)
-
-## Hardware we'll be using
+## Hardware we'll be using (buy list)
 - [Adafruit LoRa RFM9x](https://www.adafruit.com/product/3073) which is the radio of choice, *2, (send and receive)
 - [Arduino Nano ATMega328P](https://thepihut.com/products/arduino-nano) *2 (send and receive)
-These are the very very crucial things we really need and don't have  
-These below are things I'm just looking at that we might need:
-- 3.7 V LiPo 250–500 mAh
-- 100 µF electrolytic cap *2 (radio setup)
-- BMP280 or something
-
-
+- [BMP280](https://www.adafruit.com/product/2651)
+- [Battery](https://www.adafruit.com/product/1578)
+- [Solenoid](https://www.adafruit.com/product/2776)
+- 100 µF electrolytic cap *2 (battery) --skip this
+- Solar panels -- awaiting on the part
 ## Language and how to work with it
+I'll put the arduino C++ boilerplate and some code examples here.
 
 ## Communication
